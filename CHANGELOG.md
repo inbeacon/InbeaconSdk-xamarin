@@ -1,3 +1,7 @@
+#### 1.1.3 (07-Nov-2016)
+- incremental
+
+
 #### 1.1.0 (07-Nov-2016)
 - updated sample projects to include newest xam
 

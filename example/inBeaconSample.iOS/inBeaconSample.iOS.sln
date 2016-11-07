@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "inBeaconSample", "inBeaconSample.iOS\inBeaconSample.shproj", "{160ED6BA-AB20-4305-A197-3EAE3B0F8344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inBeaconSample.iOS", "iOS\inBeaconSample.iOS.csproj", "{C42C9C9B-8A39-40A9-8246-5E39770863D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C42C9C9B-8A39-40A9-8246-5E39770863D5}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C42C9C9B-8A39-40A9-8246-5E39770863D5}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C42C9C9B-8A39-40A9-8246-5E39770863D5}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C42C9C9B-8A39-40A9-8246-5E39770863D5}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C42C9C9B-8A39-40A9-8246-5E39770863D5}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C42C9C9B-8A39-40A9-8246-5E39770863D5}.Release|iPhone.Build.0 = Release|iPhone
+		{C42C9C9B-8A39-40A9-8246-5E39770863D5}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C42C9C9B-8A39-40A9-8246-5E39770863D5}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
